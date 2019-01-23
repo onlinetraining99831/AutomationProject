@@ -12,6 +12,8 @@ namespace project1
         {
             Console.WriteLine("test");
             Console.WriteLine("test");
+
+            Console.WriteLine("push to git");
         }
     }
 }
